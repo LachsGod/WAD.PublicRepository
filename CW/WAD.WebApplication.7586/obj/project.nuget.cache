@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BkNS/8hC23K52+TsQmJkLGik+iklOxyuraZIy2tU/ipmb1iRWt/SxEFGrQ7j4cEXuv9/xC3pcT5i/dAoNZt2sg==",
+  "dgSpecHash": "LryTCZx5pFY/CUQw1mOxAC3SKlC0ibO26utevN0dgIiRJuNlfsMyGbubz6hyhDmrss680csJUShw0fqM4+FT/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NOUT\\source\\repos\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\WAD.WebApplication.7586.csproj",
+  "projectFilePath": "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\WAD.WebApplication.7586.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NOUT\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\NOUT\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

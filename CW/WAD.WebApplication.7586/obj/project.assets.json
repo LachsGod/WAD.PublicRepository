@@ -8496,23 +8496,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WINDOWS 10\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\NOUT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WINDOWS 10\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\WAD.WebApplication.7586.csproj",
+      "projectUniqueName": "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\WAD.WebApplication.7586.csproj",
       "projectName": "WAD.WebApplication.7586",
-      "projectPath": "C:\\Users\\WINDOWS 10\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\WAD.WebApplication.7586.csproj",
-      "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WINDOWS 10\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\obj\\",
+      "projectPath": "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\WAD.WebApplication.7586.csproj",
+      "packagesPath": "C:\\Users\\NOUT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.7586\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\WINDOWS 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NOUT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8524,9 +8520,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\WINDOWS 10\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.DAL\\WAD.WebApplication.DAL.csproj": {
-              "projectPath": "C:\\Users\\WINDOWS 10\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.DAL\\WAD.WebApplication.DAL.csproj"
+            "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.DAL\\WAD.WebApplication.DAL.csproj": {
+              "projectPath": "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.DAL\\WAD.WebApplication.DAL.csproj"
             }
           }
         }
@@ -8539,6 +8536,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -8583,7 +8581,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfvmbIjC19t2XoWhrAcxROiT96VmjwcGX6Ee2BnKs/nWyHEgedWF05jNuNb8Wy6y/cfZtQbL4GfFIb2zPnswtg==",
+  "dgSpecHash": "nts4QM/xEANb63f9G6qcIJGmyiZIlQfRvcgbYLM9NMXbB1adFqxtL5EvxYc92Xt0GSxPQl/QxursFV7m3yd5SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NOUT\\source\\repos\\WAD.PublicRepository\\CW\\WAD.WebApplication.DAL\\WAD.WebApplication.DAL.csproj",
+  "projectFilePath": "C:\\Users\\NOUT\\Desktop\\WAD.PublicRepository\\CW\\WAD.WebApplication.DAL\\WAD.WebApplication.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NOUT\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\NOUT\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
