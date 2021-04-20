@@ -5,9 +5,13 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using WAD.WebApplication._7586.DAL;
+using WAD.WebApplication._7586.DAL.DBO;
+using WAD.WebApplication.DAL.Repository;
 
 namespace WAD.WebApplication._7586
 {
@@ -23,7 +27,14 @@ namespace WAD.WebApplication._7586
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IRepository<Product>, ProductRepo>();
+            services.AddScoped<IRepository<Category>, CategoryRepo>();
             services.AddControllersWithViews();
+            services.AddDbContext<WebApplicationDbContext>(
+                options => options.UseSqlServer(
+                    Configuration.GetConnectionString("WebApp.7586")
+                    )
+                );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,8 @@
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\bin\Debug\netcoreapp3.1\WAD.WebApplication.DAL.deps.json
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\bin\Debug\netcoreapp3.1\WAD.WebApplication.DAL.dll
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\bin\Debug\netcoreapp3.1\WAD.WebApplication.DAL.pdb
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\obj\Debug\netcoreapp3.1\WAD.WebApplication.DAL.AssemblyInfoInputs.cache
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\obj\Debug\netcoreapp3.1\WAD.WebApplication.DAL.AssemblyInfo.cs
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\obj\Debug\netcoreapp3.1\WAD.WebApplication.DAL.csproj.CoreCompileInputs.cache
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\obj\Debug\netcoreapp3.1\WAD.WebApplication.DAL.dll
+C:\Users\NOUT\source\repos\WAD.PublicRepository\CW\WAD.WebApplication.DAL\obj\Debug\netcoreapp3.1\WAD.WebApplication.DAL.pdb
